@@ -3,8 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "description": "React E-commerce monorepo",
-  "repository": "https://github.com/react-shop/react-ecommerce",
-  "author": "Vinicius Arruda",
+  "repository": "https://github.com/studio-kanvas/react-ecommerce",
+  "author": "Ben Kang",
   "engines": {
     "node": "14.x",
     "npm": "You must use yarn in this project!",

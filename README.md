@@ -102,10 +102,3 @@ Install dependencies in package: `cd packages/name && yarn add -W dependencie-na
 
 `yarn test` to run ALL packages test at the same time or `cd packages/<package-name> && yarn test`
 
-### Lerna commands
-
-https://lerna.js.org/
-
-Api: https://github.com/viniarruda/elixir-ecommerce-api [Elixir]
-
-Enjoy!
